@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Developer
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on Mobile Programing
-- 📫 How to reach me ...
+- 📫 How to reach me by email
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Informatics engineering student
 
